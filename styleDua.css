@@ -1,0 +1,18 @@
+.aqua {color:aqua;}
+.navy {color: navy;}
+.antiquewhite {color: antiquewhite;}
+.spacing {letter-spacing: 3px; word-spacing: 7px; line-height: 18px;}
+.uppercase {text-transform: uppercase;}
+.lowercase {text-transform: lowercase;}
+.capitalize {text-transform: capitalize;}
+.paragraph {
+    font-family: 'Times New Roman';
+    font-size: 20px;
+}
+ul {
+    list-style-type: circle;
+}
+li {
+    font-family: Tahoma;
+    font-size: 15px;
+}
